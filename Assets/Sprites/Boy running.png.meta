@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 6955290db1d94f94f9105bbc6dcc91dc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy running
+    21300002: Cabeza
+    21300004: Tronco
+    21300006: HombroIzq
+    21300008: HombroDer
+    21300010: BrazoDer
+    21300012: BrazoIzq
+    21300014: PiernaDer
+    21300016: PiernaIzq
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 114
+        height: 98
+      alignment: 9
+      pivot: {x: .59793216, y: .0443152599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HombroIzq
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 198
+        width: 52
+        height: 43
+      alignment: 9
+      pivot: {x: .199423566, y: .932723641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HombroDer
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 92
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: .264962643, y: .894033074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrazoDer
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: .185746595, y: .825624466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrazoIzq
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 94
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: .185746938, y: .841130257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PiernaDer
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 58
+        height: 62
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PiernaIzq
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

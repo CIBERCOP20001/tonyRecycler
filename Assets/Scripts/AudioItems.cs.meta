@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 785e2fbe91f5db54cb1d815aa06a03f4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GetItem: {instanceID: 0}
+  - GetItemEffect2: {fileID: 100000, guid: 8e1dcf1924b1945fcaab73df0affd2ab, type: 2}
+  - DeadEffect: {fileID: 100000, guid: e41a1ff11fe7f43e3bb0a215c7cd3d54, type: 2}
+  - FinishLevelEffect: {fileID: 100000, guid: e41a1ff11fe7f43e3bb0a215c7cd3d54, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

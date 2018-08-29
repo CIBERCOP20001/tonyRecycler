@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4603c3a82646f554b9e77684ac89233a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DeadEffect: {fileID: 100000, guid: e41a1ff11fe7f43e3bb0a215c7cd3d54, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

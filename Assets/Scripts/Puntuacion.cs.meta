@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7f4606b7af34d3e43af5829ff7a433b2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - marcador: {instanceID: 0}
+  - plasticoMarcador: {instanceID: 0}
+  - vidrioMarcador: {instanceID: 0}
+  - lataMarcador: {instanceID: 0}
+  - GetItemSound: {fileID: 8300000, guid: 17ee07bcd13a2284086c642db942117b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

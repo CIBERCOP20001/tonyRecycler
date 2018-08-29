@@ -1,0 +1,10 @@
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\aavendano\Documents\New Unity Project 3\obj\Debug\UnityVS.New Unity Project 3.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\aavendano\Documents\New Unity Project 3\obj\Debug\Assembly-CSharp.dll
+C:\Users\aavendano\Documents\New Unity Project 3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\aavendano\Documents\New Unity Project 3\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
